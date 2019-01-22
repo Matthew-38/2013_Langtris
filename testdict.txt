@@ -1,0 +1,7 @@
+﻿
+Bon - good
+Que - that
+Autre - other
+faux - false
+vrai - true
+ete - summer
